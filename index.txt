@@ -1,0 +1,32 @@
+Git status:
+O comando mostra o estado do diretório de trabalho e da área de preparo. 
+Ele permite que você veja as alterações em estágios e os arquivos que não estão sendo rastreados pelo Git.
+
+Git add:
+O Git não rastreia arquivos por padrão. Em vez de ele espera até que você tenha usado pelo menos uma vez 
+antes de começar a monitorar a um arquivo.
+
+Git commit:
+O comando git commit captura um instantâneo das mudanças preparadas do projeto no momento. 
+Os instantâneos com commit podem ser considerados versões "seguras" de um projeto, 
+o Git nunca os altera, a menos que você peça a ele.
+
+Git push:
+O comando git push é usado para enviar o conteúdo do repositório local para um repositório remoto.  
+
+Git checkout:
+Em termos Git, um “checkout” é o ato de alternar entre versões diferentes de uma entidade de destino. 
+
+Git merge:
+Mesclagem é o jeito do Git de unificar um histórico bifurcado. O comando git merge permite que você pegue as 
+linhas de desenvolvimento independentes criadas pelo git branch e as integre em uma ramificação única.
+
+Git pull:
+O git pull é um comando usado para atualizar suas branches locais de acordo com as branches remotas. 
+Ele é uma combinação de dois comandos: git fetch seguido por git merge.
+
+Git remote:
+O comando git remote permite criar, ver e excluir conexões com outros repositórios. 
+As conexões remotas são mais parecidas com marcadores em vez de links diretos para outros repositórios.
+ Em vez de dar acesso em tempo real a outro repositório, eles funcionam como nomes convenientes que
+podem ser usados para fazer referência a uma URL não tão conveniente.
